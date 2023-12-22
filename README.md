@@ -22,6 +22,7 @@ const JonatanLara = {
 <details open>
     <summary>Lista de redes sociales </summary>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jonatanLara?style=social">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCledsnzGqlKpvKOaHYUvHHQ?style=social&logo=youtube&logoColor=%23ff0000">
 
 </details>
 
