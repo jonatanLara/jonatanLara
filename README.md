@@ -1,30 +1,53 @@
-### Hola, Soy Jonatan Lara <img height="45" src="https://media.giphy.com/media/z24q9PQNlw19u/giphy.gif"  />
+# ¡Hola, soy Jonatan Lara! 👨‍💻🎮  
+
+**Ingeniero en Sistemas de Información** con **+7 años** liderando equipos y desarrollando soluciones tech para el sector público y privado. Apasionado por **innovar, escalar sistemas** y **formar talento** con un toque *lean*.  
+
 ```javascript
-//Un poco más sobre mí
+// Un poco más sobre mí
 const JonatanLara = {
-  pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS, Php, Python, Java],
-    tools: [React, Node, SASS, Styled-Components, Docker],
-    architecture: ["microservices", "model-view-controller", "design system pattern"],
-    databases: {
-      relational: [MySQL, PostgreSQL],
-      non-relational: [firabase],
-    },
-    techCommunities: {
-      coorganizer: "FORTHICS",
-      speaker: "Latinity"
-    }
-}
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS", "PHP", "Python", "Java", "AppsScript"],
+  tools: ["React", "Node.js", "Docker", "SASS", "QGIS", "Leaflet"],
+  design: ["Illustrator", "Photoshop"],
+  architecture: ["microservices", "MVC", "design system pattern"],
+  databases: {
+    relational: ["MySQL", "PostgreSQL"],
+    nonRelational: ["Firebase"]
+  },
+  techCommunities: {
+    coorganizer: "FORTHICS",
+    speaker: "Latinity"
+  },
+  currentFocus: "Sistemas geoespaciales para arqueología 🗺️"
+};
 ```
-###### Mi formación es `Ing. en sistemas de información` soy `desarrollador` y trabajo `Frontend` y `Backend`.
-------
-<img align="right" alt="" width="300" src="https://media.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif"/>
-<details open>
-    <summary>Lista de redes sociales </summary>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jonatanLara?style=social">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCledsnzGqlKpvKOaHYUvHHQ?style=social&logo=youtube&logoColor=%23ff0000">
 
-</details>
+## 🚀 Experiencia Clave  
+- **📈 Engineering Manager** en *INAH (Tren Maya)*:  
+  - Lideré **2 equipos** que gestionaron **+65,000 registros arqueológicos con integración geoespacial (QGIS/Leaflet).**.  
+  - Escalé un sistema de RH en **5 meses** con un equipo de **5 ingenieros**, aplicando *Ley de Conway inversa*.  
+  - Automatización de procesos con **Google AppsScript y Google Sheets**.
+- **💻 Senior Full Stack Engineer**:  
+  - Centralicé datos para **10 administradores** en **5 estados**, optimizando **5 procesos logísticos**.  
+  - Aumenté **35% la rentabilidad** de un negocio con un sistema de inventario (*Tokyo Comunicación*).  
+- **🌱 Innovación Social**:  
+  - Llevé talleres de **impresión 3D** a **620 niños** en **20 escuelas**, modelando **50 inventos** creados por ellos.  
 
-<!--I love connecting with different people** so if you want to say hi **hi I'II be happy to meet yor more! -->
- _**Me gustaría conocer a diferentes personas**, así que si quieres saludarme **¡hola, estaré encantado de compartir ideas!**_
+## ✨ Personalidad  
+- **🧠 Mentalidad emprendedora**: Soluciones *ágiles* y centradas en el usuario.  
+- **🎉 Ambiente laboral**: Equipos **divertidos** y colaborativos (*¡AuronPlay me entiende!*).  
+- **🎮 Gamer**: Fan de **Cuphead** (✔️ 200% de logros) y la **Nintendo Switch**.  
+
+## 📫 ¿Conversamos?  
+¡Hablemos de tech, arqueología digital, mapas web o videojuegos! ⬇️  
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/jonatanLara?style=social">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCledsnzGqlKpvKOaHYUvHHQ?style=social&logo=youtube&logoColor=%23ff0000">
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/tuperfil)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/jonatanlaraortiz)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/jlaraortiz)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](ljonatan4@gmail.com)
+
+
+> *"Construyendo código que trasciende pantallas… y pirámides mayas."* 🌿  
