@@ -5,7 +5,6 @@
     width="100%"
   />
 </p>
-<br>
 
 ```javascript
 // Un poco más sobre mí
