@@ -1,6 +1,10 @@
-# ¡Hola, soy Jonatan Lara! 👨‍💻🎮  
-
-**Ingeniero en Sistemas de Información** con **+7 años** liderando equipos y desarrollando soluciones tech para el sector público y privado. Apasionado por **innovar, escalar sistemas** y **formar talento** con un toque *lean*.  
+<p >
+  <img 
+    src="https://github.com/jonatanLara/jonatanLara/blob/main/src/header.png?raw=true" 
+    alt="header-jonatan"
+    width="100%"
+  />
+</p>
 
 ```javascript
 // Un poco más sobre mí
